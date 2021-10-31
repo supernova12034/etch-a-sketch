@@ -1,0 +1,12 @@
+#container1{
+    display: grid;
+    grid-template-columns: repeat(16,1fr);
+    grid-template-rows: repeat(16,1fr);
+    grid-gap: 10px;
+    justify-items: center;
+}
+
+#btn1 {
+margin-left: 50%;
+margin-bottom: 5%;   
+}
